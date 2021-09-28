@@ -8,5 +8,6 @@
 import UIKit
 
 class Teacher: NSObject {
-
+    var name:String?
+    var age:Int?
 }

@@ -17,6 +17,8 @@
 		450F453E2702BB920075552C /* _021TestProjUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 450F453D2702BB920075552C /* _021TestProjUITests.swift */; };
 		450F454C2702C5820075552C /* Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 450F454B2702C5820075552C /* Test.swift */; };
 		450F454E2702C7090075552C /* Fffff.swift in Sources */ = {isa = PBXBuildFile; fileRef = 450F454D2702C7090075552C /* Fffff.swift */; };
+		450F45502702C96F0075552C /* Student.swift in Sources */ = {isa = PBXBuildFile; fileRef = 450F454F2702C96F0075552C /* Student.swift */; };
+		450F45522702C97A0075552C /* Teacher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 450F45512702C97A0075552C /* Teacher.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +55,8 @@
 		450F453F2702BB920075552C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		450F454B2702C5820075552C /* Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test.swift; sourceTree = "<group>"; };
 		450F454D2702C7090075552C /* Fffff.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fffff.swift; sourceTree = "<group>"; };
+		450F454F2702C96F0075552C /* Student.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Student.swift; sourceTree = "<group>"; };
+		450F45512702C97A0075552C /* Teacher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Teacher.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +116,8 @@
 				450F45292702BB920075552C /* Info.plist */,
 				450F454B2702C5820075552C /* Test.swift */,
 				450F454D2702C7090075552C /* Fffff.swift */,
+				450F454F2702C96F0075552C /* Student.swift */,
+				450F45512702C97A0075552C /* Teacher.swift */,
 			);
 			path = 2021TestProj;
 			sourceTree = "<group>";
@@ -265,9 +271,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				450F454E2702C7090075552C /* Fffff.swift in Sources */,
+				450F45502702C96F0075552C /* Student.swift in Sources */,
 				450F45202702BB8C0075552C /* ViewController.swift in Sources */,
 				450F454C2702C5820075552C /* Test.swift in Sources */,
 				450F451C2702BB8C0075552C /* AppDelegate.swift in Sources */,
+				450F45522702C97A0075552C /* Teacher.swift in Sources */,
 				450F451E2702BB8C0075552C /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
